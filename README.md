@@ -1,6 +1,14 @@
 Hi 👋 My name is Annhilati
 ==========================
 
+Minecraft Pack developer with a penchant for mathematics (that's why sometimes Python)
+--------------------------------------------------------------------------------------
+
+* 🌍  I'm based in Germany
+* 🖥️  See my portfolio at [Linktree](http://linktr.ee/annhilati)
+* 🚀  I'm currently working on [Something from my list (maybe)](http://linktr.ee/annhilati)
+* 🧠  I'm learning GLSL
+
 ### Skills
 
 
