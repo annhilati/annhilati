@@ -1,7 +1,7 @@
 Hi 👋 My name is Annhilati
 ==========================
 
-Minecraft Pack developer with a penchant for mathematics (that's why sometimes Python)
+Minecraft Pack developer with a penchant for mathematics <br> (that's why sometimes Python)
 --------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Germany
