@@ -24,5 +24,5 @@ Minecraft Pack developer with a penchant for mathematics <br> (that's why someti
 
 ### Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annhilati&layout=compact&bg_color=202123&text_color=FFFFF&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annhilati&layout=compact&bg_color=0e1117&text_color=FFFFF&border_color=202123)
 
