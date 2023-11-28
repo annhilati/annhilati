@@ -11,14 +11,11 @@ Minecraft Pack developer with a penchant for mathematics <br> (that's why someti
 
 ### Skills
 
-
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://minecraft.net" target="_blank" rel="noreferrer"><img src="https://bugs.mojang.com/secure/thumbnail/280665/_thumb_280665.png" width="36" height="36" alt="Minecraft Pack" /></a>
-<a href="https://optifine.net/home" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/69833574?s=200&v=4" width="36" height="36" alt="OptiFine Shaders" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://optifine.net/home" target="_blank" rel="noreferrer"><img src="https://strum355.gallerycdn.vsassets.io/extensions/strum355/vscode-mc-shader/0.9.9/1676220390105/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="OptiFine Shaders" /></a>
+<a href=https://minecraft.net" target="_blank" rel="noreferrer"><img src="https://arcensoth.gallerycdn.vsassets.io/extensions/arcensoth/language-mcfunction/0.18.0/1623524423579/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="mcfunction" /></a>
 </p>
 
 
