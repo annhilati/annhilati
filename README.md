@@ -18,7 +18,7 @@ Minecraft Pack developer with a penchant for mathematics <br> (that's why someti
 </p>
 
 ### Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annhilati&layout=compact&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&langs_count=8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annhilati&layout=compact&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&langs_count=8)](https://github.com/annhilati)
 
 ### Interesting Repositorys
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annhilati&repo=servertools-datapack&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3)](https://github.com/annhilati/servertools-datapack/)
