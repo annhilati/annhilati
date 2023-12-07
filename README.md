@@ -3,6 +3,8 @@
 Minecraft Pack developer with a penchant for mathematics <br> (that's why sometimes Python)
 --------------------------------------------------------------------------------------
 
+  <p align="right"><a href="https://github.com/annhilati/"><img align="center" height="300" src="https://raw.githubusercontent.com/annhilati/annhilati/main/Annhilati%20Minecraft%20Model.png" /></a></p>
+
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [Linktree](http://linktr.ee/annhilati)
 * 🚀  I'm currently working on [something from my list (maybe)](http://linktr.ee/annhilati)
