@@ -3,12 +3,18 @@
 Minecraft Pack developer with a penchant for mathematics <br> (that's why sometimes Python)
 --------------------------------------------------------------------------------------
 
-  <p align="right"><a href="https://github.com/annhilati/"><img align="center" height="300" src="https://raw.githubusercontent.com/annhilati/annhilati/main/Annhilati%20Minecraft%20Model.png" /></a></p>
 
-* 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [Linktree](http://linktr.ee/annhilati)
-* 🚀  I'm currently working on [something from my list (maybe)](http://linktr.ee/annhilati)
-* 🧠  I'm learning GLSL
+<div style="display: flex">
+  <div>
+    <ul>
+      <li>🌍 I'm based in Germany</li>
+      <li>🖥️ See my portfolio at <a href="http://linktr.ee/annhilati">Linktree</a></li>
+      <li>🚀 I'm currently working on <a href="http://linktr.ee/annhilati">something from my list (maybe)</a></li>
+      <li>🧠 I'm learning GLSL</li>
+    </ul>
+  </div>
+  <p align="right"><a href="https://github.com/annhilati/"><img align="center" height="300" src="https://raw.githubusercontent.com/annhilati/annhilati/main/Annhilati%20Minecraft%20Model.png" /></a></p>
+</div>
 
 
 <h3 align="left">Skills</h3>
