@@ -1,21 +1,16 @@
 <h1 align="left">Hi 👋 My name is Annhilati</h1>
+<a href="https://github.com/annhilati/"><img align="right" height="250" src="https://raw.githubusercontent.com/annhilati/annhilati/main/Annhilati%20Minecraft%20Model.png" /></a>
 
 Minecraft Pack developer with a penchant for mathematics <br> (that's why sometimes Python)
 --------------------------------------------------------------------------------------
 
 
-<div style="display: flex">
-  <div>
-    <ul>
-      <li>🌍 I'm based in Germany</li>
-      <li>🖥️ See my portfolio at <a href="http://linktr.ee/annhilati">Linktree</a></li>
-      <li>🚀 I'm currently working on <a href="http://linktr.ee/annhilati">something from my list (maybe)</a></li>
-      <li>🧠 I'm learning GLSL</li>
-    </ul>
-  </div>
-  <p align="right"><a href="https://github.com/annhilati/"><img align="center" height="300" src="https://raw.githubusercontent.com/annhilati/annhilati/main/Annhilati%20Minecraft%20Model.png" /></a></p>
-</div>
-
+<ul>
+    <li>:earth_africa: I'm based in Germany</li>
+    <li>🖥️ See my portfolio at <a href="http://linktr.ee/annhilati">Linktree</a></li>
+    <li>:rocket: I'm currently working on <a href="http://linktr.ee/annhilati">something from my list (maybe)</a></li>
+    <li>:brain: I'm learning GLSL</li>
+</ul>
 
 <h3 align="left">Skills</h3>
 <p align="left">
