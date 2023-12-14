@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋 My name is Annhilati</h1>
-<img align="right" height="250" src="https://github.com/annhilati/annhilati/blob/main/github/assets/annhilati/Annhilati%20Minecraft%20Model.png" />
+<a href="https://github.com/annhilati" target="_blank" rel="noreferrer"><img align="right" height="250" src="https://github.com/annhilati/annhilati/blob/main/github/assets/annhilati/Annhilati%20Minecraft%20Model.png" /></a>
 
 Minecraft Pack developer with a penchant for mathematics <br> (that's why sometimes Python)
 --------------------------------------------------------------------------------------
