@@ -1,6 +1,8 @@
 # Title
 ## Compatibility
+* Type: <Modtyp>
 * 🛠️ Modding-API/Loader: <Modding-API>
+    * pack_version: 
 * 📦 Technical requirements:
     * <eine Abhängigkeit>
 * ⚙️ Options-related requirements:
@@ -10,10 +12,7 @@
 <Die Art und Weise, wie verschiedene Sprachen verwendet werden>
 * <Liste der Sprachen>
 
-## Technical
-* Type: <Modtyp>
-
-### Notes on the functionality of certain features
+## Notes on the functionality of certain features
 
 ## Credits
 * [Annhilati](https://github.com/annhilati), (me): 
