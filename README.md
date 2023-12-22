@@ -33,3 +33,6 @@ Minecraft Pack developer with a penchant for mathematics <br> (that's why someti
 <a href="https://github.com/annhilati/minecraft/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annhilati&repo=minecraft&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3" /></a>
 <a href="https://github.com/annhilati/minecraft-shader/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annhilati&repo=minecraft-shader&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3" /></a>
 <!-- <a href="https://github.com/annhilati/meta-maltino/wiki"><img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annhilati&repo=meta-maltino&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3" /></a> -->
+
+### Resources
+<a href="https://gist.github.com/annhilati/78c5b3eb6e71ba13760ef0eff38dce34"><img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=78c5b3eb6e71ba13760ef0eff38dce34&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3" /></a>
