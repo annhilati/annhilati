@@ -24,15 +24,15 @@ Minecraft Pack developer with a penchant for mathematics <br> (that's why someti
 ### Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annhilati&layout=compact&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&langs_count=6)](https://github.com/annhilati)
 
-### Interesting Repositorys
+## Interesting Repositorys
 ###### Basically, topics and my documentation on them are capitalized, while actual projects are written in lower case
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annhilati&repo=servertools-datapack&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3)](https://github.com/annhilati/servertools-datapack/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blazes-Meta&repo=meta-maltino&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3)](https://github.com/Blazes-Meta/meta-maltino-minecraft-server)
 
-#### Documentation
+### Documentation
 <a href="https://github.com/annhilati/minecraft/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annhilati&repo=minecraft&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3" /></a>
 <a href="https://github.com/annhilati/minecraft-shader/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annhilati&repo=minecraft-shader&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3" /></a>
 <!-- <a href="https://github.com/annhilati/meta-maltino/wiki"><img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annhilati&repo=meta-maltino&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3" /></a> -->
 
-### Resources
+## Resources
 <a href="https://gist.github.com/annhilati/78c5b3eb6e71ba13760ef0eff38dce34"><img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=78c5b3eb6e71ba13760ef0eff38dce34&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3" /></a>
