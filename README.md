@@ -16,7 +16,6 @@ Minecraft Pack developer with a penchant for mathematics <br> (that's why someti
 <p align="left">
     <!--Python--> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
     <!--OptiFine Shading--> <a href="https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/shaders.txt" target="_blank" rel="noreferrer"><img src="https://strum355.gallerycdn.vsassets.io/extensions/strum355/vscode-mc-shader/0.9.9/1676220390105/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" alt="OptiFine Shaders" /></a>
-    <!--labPBR--> <a href="https://wiki.shaderlabs.org/wiki/LabPBR_Material_Standard" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/annhilati/blob/main/github/assets/annhilati/labPBR.png" width="39" height="39" alt="LabPBR" /></a>
     <!--mcfunction--> <a href="https://minecraft.net" target="_blank" rel="noreferrer"><img src="https://arcensoth.gallerycdn.vsassets.io/extensions/arcensoth/language-mcfunction/0.18.0/1623524423579/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" alt="mcfunction" /></a>
     <!--HTML--> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
 </p>
