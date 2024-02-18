@@ -26,7 +26,7 @@ Minecraft Pack developer with a penchant for mathematics <br> (that's why someti
 ## Relevant Repositories
 ###### Basically, topics and my documentation on them are capitalized, while actual projects are written in lower case
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annhilati&repo=servertools-datapack&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3)](https://github.com/annhilati/servertools-datapack/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Annhilati&repo=lbd-shaders&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3)](https://github.com/Blazes-Meta/meta-maltino-minecraft-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Annhilati&repo=lbd-shaders&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3)](https://github.com/Annhilati/lbd-shaders)
 
 ### Documentation
 <a href="https://github.com/annhilati/minecraft/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annhilati&repo=minecraft&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3" /></a>
