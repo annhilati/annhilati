@@ -21,7 +21,7 @@ Minecraft Pack developer with a penchant for mathematics <br> (that's why someti
 </p>
 
 ### Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annhilati&layout=compact&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&langs_count=6&hide=JSON)](https://github.com/annhilati)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annhilati&layout=compact&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&langs_count=6&hide=JSON,INI)](https://github.com/annhilati)
 
 ## Relevant Repositories
 ###### Basically, topics and my documentation on them are capitalized, while actual projects are written in lower case
