@@ -14,9 +14,9 @@ Minecraft Pack developer with a penchant for mathematics <br> (that's why someti
 
 <h3 align="left">Languages</h3>
 <p align="left">
-    <!--Python--> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
-    <!--HTML--> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
-    <!--mcfunction--> <a href="https://minecraft.wiki/w/Function_(Java_Edition)" target="_blank" rel="noreferrer"><img src="https://arcensoth.gallerycdn.vsassets.io/extensions/arcensoth/language-mcfunction/0.18.0/1623524423579/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" alt="mcfunction" /></a>
+    <!--Python--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=python&sort=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
+    <!--HTML--> <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
+    <!--mcfunction--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mcfunction&sort=" target="_blank" rel="noreferrer"><img src="https://arcensoth.gallerycdn.vsassets.io/extensions/arcensoth/language-mcfunction/0.18.0/1623524423579/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" alt="mcfunction" /></a>
 </p>
 
 <h3 align="left">Environments</h3>
