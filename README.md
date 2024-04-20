@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋 My name is Annhilati</h1>
-<h3 align="left"><a href="https://github.com/annhilati" target="_blank" rel="noreferrer"><img align="right" height="250" src="https://github.com/annhilati/annhilati/blob/main/github/assets/annhilati/Annhilati%20Minecraft%20Model.png" /></a></h3>
 
+<a href="https://github.com/annhilati"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annhilati&layout=compact&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&langs_count=6&hide=JSON,INI" alt="Top Languages"></a>
+<!--<h3 align="left"><a href="https://github.com/annhilati" target="_blank" rel="noreferrer"><img align="right" height="250" src="https://github.com/annhilati/annhilati/blob/main/github/assets/annhilati/Annhilati%20Minecraft%20Model.png" /></a></h3>-->
 
 ### Minecraft Pack developer with a penchant for mathematics <br> (that's why sometimes Python)
 
@@ -18,7 +19,6 @@
     <!--mcfunction--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mcfunction&sort=" target="_blank" rel="noreferrer"><img src="https://arcensoth.gallerycdn.vsassets.io/extensions/arcensoth/language-mcfunction/0.18.0/1623524423579/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" alt="mcfunction" /></a>
 </p>
 
-<a href="https://github.com/annhilati"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annhilati&layout=compact&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&langs_count=6&hide=JSON,INI" alt="Top Languages"></a>
 <h3 align="left">Frameworks</h3>
 <p align="left">
     <!--OptiFine Shading--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mcfunction&sort=" target="_blank" rel="noreferrer"><img src="https://spgoding.gallerycdn.vsassets.io/extensions/spgoding/datapack-language-server/3.4.19/1703597943605/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" alt="OptiFine Shaders" /></a>
