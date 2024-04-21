@@ -28,7 +28,7 @@
 <h3 align="left">Environments</h3>
 <p align="left">
     <!--git--> <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://der-linux-admin.de/wp-content/uploads/2017/11/git_logo-150x150.png" width="38" height="38" alt="git" /></a>
-    <!--Java--> <a href="https://www.java.com/de/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=13679&format=png" width="42" height="42" alt="git" /></a>
+    <!--Java--> <a href="https://www.oracle.com/de/java/technologies/downloads/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=13679&format=png" width="42" height="42" alt="git" /></a>
 </p>
 
 <!--### Stats
