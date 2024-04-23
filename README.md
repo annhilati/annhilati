@@ -37,7 +37,7 @@
 
 ## Relevant Repositories
 ###### Basically, topics and my documentation on them are capitalized, while actual projects are written in lower case
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annhilati&repo=servertools-datapack&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3)](https://github.com/annhilati/servertools-datapack/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annhilati&repo=discord-bot&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3)](https://github.com/annhilati/discord-bot/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Annhilati&repo=lbd-shaders&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3)](https://github.com/Annhilati/lbd-shaders)
 
 ### Work I did for my poeple
