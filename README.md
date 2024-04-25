@@ -8,7 +8,7 @@
 <ul>
     <li>:earth_africa: I'm based in Germany</li>
     <li>🖥️ See my portfolio at <a href="http://linktr.ee/annhilati">Linktree</a></li>
-    <li>:rocket: I'm currently working on <a href="http://linktr.ee/annhilati">something from my list</a> (maybe)</li>
+    <li>:rocket: I'm currently working on <a href="https://github.com/annhilati/discord-bot">an utility Discord Bot</a></li>
     <li>:brain: I'm learning GLSL</li>
 </ul>
 
