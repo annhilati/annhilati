@@ -17,6 +17,7 @@
     <!--Python--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=python&sort=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="39" height="39" alt="Python" /></a>
     <!--HTML--> <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="39" height="39" alt="HTML5" /></a>
     <!--mcfunction--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mcfunction&sort=" target="_blank" rel="noreferrer"><img src="https://arcensoth.gallerycdn.vsassets.io/extensions/arcensoth/language-mcfunction/0.18.0/1623524423579/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" alt="mcfunction" /></a>
+    <!--Mojo--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mojo&sort=" target="_blank" rel="noreferrer"><img src="https://modular-mojotools.gallerycdn.vsassets.io/extensions/modular-mojotools/vscode-mojo/24.2.1/1712946843271/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" alt="mcfunction" /></a>   
 </p>
 
 <h3 align="left">Frameworks & APIs</h3>
@@ -48,3 +49,4 @@
 
 ## Resources
 <a href="https://gist.github.com/annhilati/78c5b3eb6e71ba13760ef0eff38dce34"><img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=78c5b3eb6e71ba13760ef0eff38dce34&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&description_lines_count=3" /></a>
+
