@@ -17,6 +17,7 @@
     <!--Python--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=python&sort=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="39" height="39" alt="Python" /></a>
     <!--HTML--> <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="38" height="38" alt="HTML5" /></a>
     <!--mcfunction--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mcfunction&sort=" target="_blank" rel="noreferrer"><img src="https://arcensoth.gallerycdn.vsassets.io/extensions/arcensoth/language-mcfunction/0.18.0/1623524423579/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" alt="mcfunction" /></a>
+    <!--GLSL--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=glsl&sort=" target="_blank" rel="noreferrer"><img src="https://dtoplak.gallerycdn.vsassets.io/extensions/dtoplak/vscode-glsllint/1.8.1/1693857768863/Microsoft.VisualStudio.Services.Icons.Default" width="39" height="39" alt="mcfunction" /></a>
     <!--Mojo--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mojo&sort=" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/annhilati/blob/main/github/assets/annhilati/Mojo.png" width="39" height="39" alt="mcfunction" /></a>
     
        
