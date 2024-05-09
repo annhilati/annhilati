@@ -35,7 +35,7 @@
     <!--git--> <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://der-linux-admin.de/wp-content/uploads/2017/11/git_logo-150x150.png" width="38" height="38" alt="git" /></a>
     <!--Java--> <a href="https://www.oracle.com/de/java" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=256&id=13679&format=png" width="40" height="40" alt="git" /></a>
     <!--Webflow--> <a href="https://Webflow.com" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/5f15081919fdf673994ab5fd/651f24a499bc8356ba844e0c_Webflow-Logo.svg" width="39" height="39" alt="Webflow" /></a>
-    <!--GitBook--> <a href="https://gitbook.com" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/ml/13153?s=140&v=4" width="41" height="41" alt="GitBook" /></a>
+    <!--GitBook- <a href="https://gitbook.com" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/ml/13153?s=140&v=4" width="41" height="41" alt="GitBook" /></a>-->
     
 </p>
 
