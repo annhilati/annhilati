@@ -3,12 +3,12 @@
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annhilati&layout=compact&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&langs_count=6&hide=JSON,INI,Markdown" alt="Top Languages"></a>
 <!--<h3 align="left"><a href="https://github.com/annhilati" target="_blank" rel="noreferrer"><img align="right" height="250" src="https://github.com/annhilati/annhilati/blob/main/github/assets/annhilati/Annhilati%20Minecraft%20Model.png" /></a></h3>-->
 
-### Minecraft Pack developer with a penchant for mathematics <br> and Python-Main Developer
+### Minecraft Pack and Python-Main Developer <br> with a penchant for mathematics
 
 <ul>
     <li>:earth_africa: I'm based in Germany</li>
     <li>🖥️ See my portfolio at <a href="http://linktr.ee/annhilati">Linktree</a></li>
-    <li>:rocket: I'm currently working on <a href="https://github.com/annhilati/discord-bot">an utility Discord Bot</a></li>
+    <li>:rocket: I'm currently working on <a href="https://github.com/annhilati/vpmobil.py">a python library for interacting with VpMobil</a></li>
     <li>:brain: I'm learning GLSL</li>
 </ul>
 
