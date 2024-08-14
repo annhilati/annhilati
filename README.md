@@ -16,6 +16,7 @@
 <p align="left">
     <!--Python--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=python&sort=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="39" height="39" alt="Python" /></a>
     <!--HTML--> <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="38" height="38" alt="HTML5" /></a>
+    <!--Java--><a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mcfunction&sort=" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40" height="40" alt="Java" /></a>
     <!--mcfunction--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mcfunction&sort=" target="_blank" rel="noreferrer"><img src="https://arcensoth.gallerycdn.vsassets.io/extensions/arcensoth/language-mcfunction/0.18.0/1623524423579/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" alt="mcfunction" /></a>
     <!--GLSL--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=glsl&sort=" target="_blank" rel="noreferrer"><img src="https://dtoplak.gallerycdn.vsassets.io/extensions/dtoplak/vscode-glsllint/1.8.1/1693857768863/Microsoft.VisualStudio.Services.Icons.Default" width="39" height="39" alt="mcfunction" /></a>
     <!--Mojo--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mojo&sort=" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/annhilati/blob/main/github/assets/annhilati/Mojo.png" width="39" height="39" alt="mcfunction" /></a>
@@ -26,6 +27,7 @@
 <h3 align="left">Frameworks & APIs</h3>
 <p align="left">
     <!--Datapacks--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mcfunction&sort=" target="_blank" rel="noreferrer"><img src="https://spgoding.gallerycdn.vsassets.io/extensions/spgoding/datapack-language-server/3.4.19/1703597943605/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" alt="Datapacks" /></a>
+    <!--Spigot Plugins--> <a href="https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/shaders.txt" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/4350249?s=200&v=4" width="43" height="43" alt="Spigot Plugins" /></a>
     <!--OptiFine Shading--> <a href="https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/shaders.txt" target="_blank" rel="noreferrer"><img src="https://strum355.gallerycdn.vsassets.io/extensions/strum355/vscode-mc-shader/0.9.9/1676220390105/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" alt="OptiFine Shaders" /></a>
     <!--Discord.py--> <a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"><img src="https://disnake.dev/assets/disnake-logo.png" width="40" height="40" alt="Discord.py" /></a>
 </p>
