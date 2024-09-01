@@ -9,7 +9,7 @@
     <li>:earth_africa: I'm based in Germany</li>
     <li>🖥️ See my portfolio at <a href="http://linktr.ee/annhilati">Linktree</a></li>
     <li>:rocket: I'm currently working on <a href="https://github.com/annhilati/vpmobil.py">a python library for interacting with VpMobil</a></li>
-    <li>:brain: I'm learning GLSL</li>
+    <li>:brain: I'm learning Java</li>
 </ul>
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=annhilati&show_icons=true&theme=dark&layout=compact&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&icon_color=ffffff" alt="User Stats"></a>
 <h3 align="left">Languages</h3>
