@@ -16,6 +16,7 @@
 <p align="left">
     <!--Python--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=python&sort=" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/devins-badges-extended/blob/main/assets/cozy-minimal/languages/python_vector.svg" width="48" height="48" alt="Python" /></a>
     <!--HTML--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/devins-badges-extended/blob/main/assets/cozy-minimal/languages/html_vector.svg" width="48" height="48" alt="HTML5" /></a>
+    <!--CSS--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/devins-badges-extended/blob/main/assets/cozy-minimal/languages/css_vector.svg" width="48" height="48" alt="HTML5" /></a>
     
 </p>
 <h3 align="left">Can do if needed</h3>
