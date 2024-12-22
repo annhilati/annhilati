@@ -12,16 +12,18 @@
     <li>:brain: I'm learning Java</li>
 </ul>
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=annhilati&show_icons=true&theme=dark&layout=compact&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&icon_color=ffffff" alt="User Stats"></a>
-<h3 align="left">Languages</h3>
+<h3 align="left">Main Focus</h3>
 <p align="left">
     <!--Python--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=python&sort=" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/devins-badges-extended/blob/main/assets/cozy-minimal/languages/python_vector.svg" width="48" height="48" alt="Python" /></a>
     <!--HTML--> <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/devins-badges-extended/blob/main/assets/cozy-minimal/languages/html_vector.svg" width="48" height="48" alt="HTML5" /></a>
-    <!--Java--><a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mcfunction&sort=" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/devins-badges-extended/blob/main/assets/cozy-minimal/languages/java_vector.svg" width="48" height="48" alt="Java" /></a>
-    <!--mcfunction--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mcfunction&sort=" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/devins-badges-extended/blob/main/assets/cozy-minimal/languages/mcfunction_vector.svg" width="48" height="48" alt="mcfunction" /></a>
-    <!--GLSL--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=glsl&sort=" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/devins-badges-extended/blob/main/assets/cozy-minimal/languages/glsl_vector.svg" width="48" height="48" alt="mcfunction" /></a>
-    <!--Mojo--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mojo&sort=" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/devins-badges-extended/blob/main/assets/cozy-minimal/languages/mojo_vector.svg" width="48" height="48" alt="mcfunction" /></a>
     
-       
+</p>
+<h3 align="left">Can do if needed</h3>
+<p align="left">
+    <!--Java--><a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mcfunction&sort=" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/devins-badges-extended/blob/main/assets/cozy-minimal/languages/java_vector.svg" width="42" height="42" alt="Java" /></a>
+    <!--mcfunction--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mcfunction&sort=" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/devins-badges-extended/blob/main/assets/cozy-minimal/languages/mcfunction_vector.svg" width="42" height="42" alt="mcfunction" /></a>
+    <!--GLSL--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=glsl&sort=" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/devins-badges-extended/blob/main/assets/cozy-minimal/languages/glsl_vector.svg" width="42" height="42" alt="mcfunction" /></a>
+    <!--Mojo--> <a href="https://github.com/annhilati?tab=repositories&q=&type=&language=mojo&sort=" target="_blank" rel="noreferrer"><img src="https://github.com/annhilati/devins-badges-extended/blob/main/assets/cozy-minimal/languages/mojo_vector.svg" width="42" height="42" alt="mcfunction" /></a>
 </p>
 
 <h3 align="left">Frameworks & APIs</h3>
