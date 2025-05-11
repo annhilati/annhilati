@@ -1,0 +1,169 @@
+{
+    "textMateRules": [
+        // ╭────────────────────────────────────────────────────────────╮
+        // │                          VALUES                            │ 
+        // ╰────────────────────────────────────────────────────────────╯
+        { // String
+            "scope": "string",
+            "settings": {
+                "foreground": "#ffe6ba"
+            }
+        },
+        { // Quotation Marks
+            "scope": [
+                "punctuation.definition.string.begin.python",
+                "punctuation.definition.string.end.python"
+            ],
+            "settings": {
+                "foreground": "#b1b1b1",
+            }
+        },
+        { // Number
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#badeff",
+            }
+        },
+        { // Boolean
+            "scope": [
+                "constant.language.python"
+            ],
+            "settings": {
+                "foreground": "#f1baff",
+                "fontStyle": "bold"
+            }
+        },
+        // ╭────────────────────────────────────────────────────────────╮
+        // │                        DECLARATION                         │ 
+        // ╰────────────────────────────────────────────────────────────╯
+        { // def, class, @
+            "scope": [
+                "storage.type.function.python",
+                "storage.type.class.python",
+                "entity.name.function.decorator.python"
+            ],
+            "settings": {
+                "foreground": "#6bfffd",
+                "fontStyle": "bold"
+            }
+        },
+        { // Function Parameter
+            "scope": [
+                "variable.parameter",
+            ],
+            "settings": {
+                "foreground": "#db936a"
+            }
+        },
+        // ╭────────────────────────────────────────────────────────────╮
+        // │                          PROGRAM                           │ 
+        // ╰────────────────────────────────────────────────────────────╯
+        { // import
+            "scope": [
+                "keyword.control.import.python",
+            ],
+            "settings": {
+                "foreground": "#ff6be9",
+                "fontStyle": "bold"
+            }
+        },
+        { // if, else, except, return, etc.
+            "scope": [
+                "keyword",
+                "keyword.control.flow.python"
+            ],
+            "settings": {
+                "foreground": "#ff6be9",
+            }
+        },
+        { // Controll symbols
+            "scope": [
+                "punctuation.separator.annotation.python",
+                "keyword.operator.bitwise.python",
+                "punctuation.section.class.begin.python",
+                "punctuation.section.function.begin.python",
+                "punctuation.separator.annotation.result.python",
+                "punctuation.separator.colon.python"
+            ],
+            "settings": {
+                "foreground": "#616161"
+            }
+        },
+        { // Array symbols
+            "scope": [
+                "punctuation.separator.arguments.python",
+                "punctuation.separator.parameters.python",
+                "punctuation.separator.dict.python",
+                "punctuation.separator.element.python"
+            ],
+            "settings": {
+                "foreground": "#D4D4D4"
+            }
+        },
+        // ╭────────────────────────────────────────────────────────────╮
+        // │                        DEVELOPMENT                         │ 
+        // ╰────────────────────────────────────────────────────────────╯
+        { // Docstrings & Comments
+            "scope": [
+                "string.quoted.docstring.multi.python",
+                "comment.line.number-sign.python"
+            ],
+            "settings": {
+                "foreground": "#818080",
+            }
+        },
+        // ╭────────────────────────────────────────────────────────────╮
+        // │                          Symbols                           │ 
+        // ╰────────────────────────────────────────────────────────────╯
+        { // Functions
+            "scope": [
+                "entity.name.function",
+                "support.function.magic.python"
+            ],
+            "settings": {
+                "foreground": "#67ce90"
+            }
+        },
+        // { // Classes
+        //     "scope": [
+        //         ""
+        //     ],
+        //     "settings": {
+        //         "foreground": "#eb7395"
+        //     }
+        // },
+        { // Attribution
+            "scope": [
+                "punctuation.separator.period.python"
+            ],
+            "settings": {
+                "foreground": "#818080"
+            }
+        },
+        { // Variables
+            "scope": [
+                "variable",
+                "constant.other.caps.python"
+            ],
+            "settings": {
+                "foreground": "#7f9ef5"
+            }
+        },
+        { // Parameters
+            "scope": [
+                "variable.parameter.function-call.python"
+            ],
+            "settings": {
+                "foreground": "#db756a"
+            }
+        },
+        // { // Modules
+        //     "scope": [
+        //         ""
+        //     ],
+        //     "settings": {
+        //         "foreground": "#eb7395",
+        //     }
+        // }
+    ]
+}
