@@ -14,8 +14,7 @@
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=annhilati&show_icons=true&theme=dark&layout=compact&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&icon_color=ffffff" alt="User Stats"></a>
 
 #### 
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-x?style=for-the-badge&logo=python&logoColor=ffffff&color=%233776AB">
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-x?style=for-the-badge&logo=javascript&logoColor=000000&color=%23F7DF1E">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-x?style=for-the-badge&logo=python&logoColor=ffffff&color=%233776AB">  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-x?style=for-the-badge&logo=javascript&logoColor=000000&color=%23F7DF1E">
 
 
 #### Some experience with
