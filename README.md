@@ -19,4 +19,4 @@
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/discord.py-x?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=4c75a9&color=161926"></a>
 
 ### Some experience with
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/GLSL-x?style=for-the-badge&logo=opengl&logoColor=ffffff&color=%235586A4"> <img alt="Static Badge" src="https://img.shields.io/badge/Java-x?style=for-the-badge&logoColor=ffffff&color=f36f53"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/GLSL-x?style=for-the-badge&logo=opengl&logoColor=ffffff&color=%235586A4"></a> <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Java-x?style=for-the-badge&logoColor=ffffff&color=f36f53"></a>
