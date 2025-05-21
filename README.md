@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋 My name is Annhilati</h1>
+<a href="#"><img alt="Static Badge" src="https://api.statusbadges.me/badge/status/720992368110862407?style=for-the-badge"></a> <a href="#"><img alt="Static Badge" src="https://api.statusbadges.me/badge/vscode/720992368110862407?style=for-the-badge"></a> 
 
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annhilati&layout=compact&theme=dark&bg_color=202125&title_color=ffffff&text_color=ffffff&border_color=1d1e20&langs_count=6&hide=JSON,INI,Markdown,Java%20Properties,Jupyter%20Notebook,HOCON" alt="Top Languages"></a>
 
