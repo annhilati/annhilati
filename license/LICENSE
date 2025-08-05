@@ -1,20 +1,37 @@
-Copyright (c) 2025 Annhilati
+Copyright (c) <Year> <Name>
+
+1. Definitions
+
+In this Licence, the following terms have the following meaning:
+
+- This software: The software licensed by this License.
+- Version (of this software): A software that has the same basic features and functionality as this software and, through modification or alteration, is a predecessor or derivative of this version.
+- The original creator(s): The entity(s) under whose name(s) the prior version(s) of this software was (were) published and licensed.
+- The prior version(s): The version(s) of this software, this software is a direct product of modification or alteration from.
+- The base version: The version of this software that was prior to all other versions and on which all other versions are based in a certain way.
+
+
+
+
+
+
+1. Elaboration
 
 Subject to the following conditions:
 
-1. You must retain this exact copyright notice in any redistributed version.
-2. You must clearly indicate whether changes were made to this software when redistributing any version.
-3. You must clearly name the original creator, Annhilati when redistributing any version.
-4. You must retain the name of this software in some visible way when redistributing any version.
-5. You must only redistribute parts of this software that were published before or with the last changes of this license that are incorporated into the redistribution.
-6. You must maintain disclosure when redistributing any version of this software.
-7. You must name all original creators of the version of this software you are modifying and it's previous versions when redistributing it.
+- You must retain this exact copyright notice in any redistributed version.
+- You must clearly indicate whether changes were made to this software when redistributing any version.
+- You must clearly name the original creator of the base version of this software when redistributing any version.
+- You must retain the name of the base version in some visible way when redistributing any version.
+- You must only redistribute parts of this software that were published before or with the last changes of this license that are incorporated into the redistribution.
+- You must maintain disclosure when redistributing any version of this software.
+- You must name the original creator of the prior version and all it's prior versions when redistributing it.
 
 permission is granted to:
 
 - Use any version of this software for private use,
 - Use any version of this software for public use,
-- Modify this software,
+- Modify any version of this software,
 - Redistribute this software or your own modified version.
 
 while it is explicitly prohibited to:
