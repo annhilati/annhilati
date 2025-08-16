@@ -9,8 +9,8 @@
 
 <ul>
     <li>:earth_africa: I'm based in Germany</li>
-    <li>:rocket: I'm currently working on a community managing service for Minecraft communities based on Discord</li>
-    <li>💡 In the mean time I am developing a Python library for standardizing Minecraft datapack based custom items</li>
+    <li>:rocket: I focus on modules and libraries for data abstractions but I am also expanding my knowledge to include full-stack applications</li>
+    <li>💡 <a href="https://github.com/annhilati/vpmobil-py">vpmobil-py</a> currently is the only production-ready project I have, all other are rather proofs of concept, toy projects or personal needs</li>
 </ul>
 
 <!-- <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=annhilati&show_icons=true&theme=dark&layout=compact&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&icon_color=ffffff" alt="User Stats"></a> -->
