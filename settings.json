@@ -4,6 +4,9 @@
             "class": {
                 "foreground": "#4ebb81"
             },
+            "interface": {
+                "foreground": "#4ebb81"
+            },
             "type": {
                 "foreground": "#FFCB6B"
             },
@@ -11,6 +14,10 @@
                 "foreground": "#9dbdee"
             },
             "module": {
+                "foreground": "#4ebb81",
+                "fontStyle": "italic"
+            },
+            "namespace": {
                 "foreground": "#4ebb81",
                 "fontStyle": "italic"
             },
@@ -52,14 +59,18 @@
                 }
             },
             { // Number
-                "scope": "constant.numeric",
+                "scope": [
+                    "constant.numeric",
+                    "constant.numeric.decimal.java"
+                ],
                 "settings": {
                     "foreground": "#badeff",
                 }
             },
             { // Boolean
                 "scope": [
-                    "constant.language.python"
+                    "constant.language.python",
+                    "constant.language.java"
                 ],
                 "settings": {
                     "foreground": "#4ebb81",
@@ -73,6 +84,7 @@
                 "scope": [
                     "storage.type.function.python",
                     "storage.type.class.python",
+                    "storage.modifier.java"
                 ],
                 "settings": {
                     "foreground": "#6bfffd",
@@ -116,7 +128,8 @@
                     "punctuation.section.function.begin.python",
                     "punctuation.separator.annotation.result.python",
                     "punctuation.separator.colon.python",
-                    "constant.other.ellipsis.python"
+                    "constant.other.ellipsis.python",
+                    "punctuation.terminator.java"
                 ],
                 "settings": {
                     "foreground": "#616161"
@@ -142,7 +155,9 @@
                 "scope": [
                     "string.quoted.docstring.multi.python",
                     "comment.line.number-sign.python",
-                    "comment.typehint.variable.notation.python"
+                    "comment.typehint.variable.notation.python",
+                    "string.quoted.docstring.single.python",
+                    "comment.line.double-slash.java"
                 ],
                 "settings": {
                     "foreground": "#818080",
@@ -156,7 +171,9 @@
                     "entity.name.function",
                     "support.function.magic.python",
                     "keyword.operator.logical.python",
-                    "storage.type.format.python"
+                    "storage.type.format.python",
+                    "keyword.operator.logical.java",
+                    "storage.type.annotation.java"
                 ],
                 "settings": {
                     "foreground": "#ebebad",
@@ -182,7 +199,8 @@
             { // Variables
                 "scope": [
                     "variable",
-                    "constant.other.caps.python"
+                    "constant.other.caps.python",
+                    "variable.other.definition.java"
                 ],
                 "settings": {
                     "foreground": "#7f9ef5"
@@ -204,6 +222,15 @@
                     "fontStyle": "italic"
                 }
             },
+            { // Java Classes
+                "scope": [
+                    "storage.type.java",
+                    "storage.type.primitive.java"
+                ],
+                "settings": {
+                    "foreground": "#4ebb81",
+                }
+            }
         ]
     },
     "editor.bracketPairColorization.enabled": true,
@@ -214,5 +241,5 @@
         "editorBracketHighlight.foreground4": "#6c9fd9", // dezentes Himmelblau
         "editorBracketHighlight.foreground5": "#d76e9f", // zartes Rosa
         "editorBracketHighlight.foreground6": "#a0d770" // helles Lindgrün
-    },
+    }
 }
