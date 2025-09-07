@@ -17,9 +17,9 @@
 
 ### Stack
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Python-x?style=for-the-badge&logo=python&logoColor=ffffff&color=4c75a9"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-x?style=for-the-badge&logo=javascript&logoColor=000000&color=f1df40"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Svelte-x?style=for-the-badge&logo=svelte&logoColor=ffffff&color=%23FF3E00"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Java-x?style=for-the-badge&logo=coffeescript&logoColor=ffffff&color=eb512a"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Svelte-x?style=for-the-badge&logo=svelte&logoColor=ffffff&color=%23FF3E00"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-x?style=for-the-badge&logo=javascript&logoColor=000000&color=f1df40"></a>
 
 
 ### Frameworks
