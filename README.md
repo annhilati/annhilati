@@ -8,9 +8,9 @@
 #### Python Full Stack and Minecraft Developer
 
 <ul>
-    <li>:earth_africa: I'm based in Germany</li>
-    <li>:rocket: I focus on modules and libraries for data abstractions but I am also expanding my knowledge to include full-stack applications</li>
-    <li>💡 <a href="https://github.com/annhilati/vpmobil-py">vpmobil-py</a> currently is the only production-ready project I have, all other are rather proofs of concept, toy projects or personal needs</li>
+    <li>🌍 I'm based in Germany</li>
+    <li>💡 I focus on modules and libraries for data abstraction but I am also expanding my knowledge to include full-stack applications</li>
+    <li>🚀 <a href="https://github.com/annhilati/vpmobil-py">vpmobil-py</a> is currently the only production-ready project I have; all the others are proofs of concept, toy projects or personal endeavours</li>
 </ul>
 
 <!-- <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=annhilati&show_icons=true&theme=dark&layout=compact&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&icon_color=ffffff" alt="User Stats"></a> -->
@@ -33,6 +33,6 @@
 ### Some experience with
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/GLSL-x?style=for-the-badge&logo=opengl&logoColor=ffffff&color=%235586A4"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Regex-x?style=for-the-badge&logo=resend&logoColor=ffffff&color=3366a4"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/SQL-x?style=for-the-badge&logoColor=ffffff&color=e55844"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/SQL-x?style=for-the-badge&logoColor=ffffff&color=b549d0"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Mojo-x?style=for-the-badge&logo=fireship&logoColor=ffffff&color=ff4c1f"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/UserCSS-x?style=for-the-badge&logo=css&logoColor=000000&color=28fefe"></a>
