@@ -61,7 +61,8 @@
             { // Number
                 "scope": [
                     "constant.numeric",
-                    "constant.numeric.decimal.java"
+                    "constant.numeric.decimal.java",
+                    "constant.numeric.glsl"
                 ],
                 "settings": {
                     "foreground": "#badeff",
@@ -84,7 +85,8 @@
                 "scope": [
                     "storage.type.function.python",
                     "storage.type.class.python",
-                    "storage.modifier.java"
+                    "storage.modifier.java",
+                    "storage.modifier.glsl"
                 ],
                 "settings": {
                     "foreground": "#6bfffd",
@@ -105,6 +107,8 @@
             { // import
                 "scope": [
                     "keyword.control.import.python",
+                    "keyword.control.import.glsl",
+                    "keyword.control.preprocessor.glsl"
                 ],
                 "settings": {
                     "foreground": "#dd72cd",
@@ -114,7 +118,8 @@
             { // if, else, except, return, etc.
                 "scope": [
                     "keyword",
-                    "keyword.control.flow.python"
+                    "keyword.control.flow.python",
+                    "keyword.control.glsl"
                 ],
                 "settings": {
                     "foreground": "#d36cca",
@@ -157,7 +162,8 @@
                     "comment.line.number-sign.python",
                     "comment.typehint.variable.notation.python",
                     "string.quoted.docstring.single.python",
-                    "comment.line.double-slash.java"
+                    "comment.line.double-slash.java",
+                    "comment.line.double-slash.glsl"
                 ],
                 "settings": {
                     "foreground": "#818080",
@@ -173,7 +179,9 @@
                     "keyword.operator.logical.python",
                     "storage.type.format.python",
                     "keyword.operator.logical.java",
-                    "storage.type.annotation.java"
+                    "storage.type.annotation.java",
+                    "entity.name.function.glsl",
+                    "support.function.glsl"
                 ],
                 "settings": {
                     "foreground": "#ebebad",
@@ -190,7 +198,9 @@
             { // Arithmetic & Logic
                 "scope": [
                     "keyword.operator.assignment.python",
-                    "keyword.operator.comparison.python"
+                    "keyword.operator.comparison.python",
+                    "keyword.operator.arithmetic.glsl",
+                    "keyword.operator.comparison.glsl"
                 ],
                 "settings": {
                     "foreground": "#e0e0e0",
@@ -200,7 +210,9 @@
                 "scope": [
                     "variable",
                     "constant.other.caps.python",
-                    "variable.other.definition.java"
+                    "variable.other.definition.java",
+                    "source.glsl",
+                    "string.interpolated.indexes.glsl"
                 ],
                 "settings": {
                     "foreground": "#7f9ef5"
@@ -214,9 +226,10 @@
                     "foreground": "#db756a"
                 }
             },
-            { // self
+            { // self, Specials
                 "scope": [
-                    "variable.parameter.function.language.special.self.python"
+                    "variable.parameter.function.language.special.self.python",
+                    "variable.language.glsl"
                 ],
                 "settings": {
                     "fontStyle": "italic"
@@ -225,7 +238,8 @@
             { // Java Classes
                 "scope": [
                     "storage.type.java",
-                    "storage.type.primitive.java"
+                    "storage.type.primitive.java",
+                    "storage.type.glsl"
                 ],
                 "settings": {
                     "foreground": "#4ebb81",
