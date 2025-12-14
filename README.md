@@ -37,4 +37,5 @@
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/SQL-x?style=for-the-badge&logoColor=ffffff&color=b549d0"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Mojo-x?style=for-the-badge&logo=fireship&logoColor=ffffff&color=ff4c1f"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/UserCSS-x?style=for-the-badge&logo=css&logoColor=000000&color=28fefe"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/LaTeX-x?style=for-the-badge&logo=latex&logoColor=ffffff&color=3f7e80"></a>
 
