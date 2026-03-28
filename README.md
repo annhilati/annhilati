@@ -17,18 +17,18 @@
 
 ### Stack
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Python-x?style=for-the-badge&logo=python&logoColor=ffffff&color=4c75a9"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Jinja-x?style=for-the-badge&logo=jinja&logoColor=ffffff&color=7E0C1B"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Java-x?style=for-the-badge&logo=coffeescript&logoColor=ffffff&color=eb512a"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Svelte-x?style=for-the-badge&logo=svelte&logoColor=ffffff&color=%23FF3E00"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-x?style=for-the-badge&logo=javascript&logoColor=000000&color=f1df40"></a>
+<!--a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-x?style=for-the-badge&logo=javascript&logoColor=000000&color=f1df40"></a-->
 
 
 ### Frameworks
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/discord.py-x?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=4c75a9&color=161926"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/fastAPI-x?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=4c75a9&color=161926"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Flask-x?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=4c75a9&color=161926"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/sympy-x?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=4c75a9&color=161926"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/beet-x?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=E22837&color=161926"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Bukkit-x?style=for-the-badge&logo=coffeescript&logoColor=ffffff&labelColor=eb512a&color=161926"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/puppeteer-x?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=f1df40&color=161926"></a>
+<!--a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/puppeteer-x?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=f1df40&color=161926"></a-->
 
 ### Some experience with
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Minecraft%20Worldgen-x?style=for-the-badge&logo=openlayers&logoColor=ffffff&color=8d664d"></a>
