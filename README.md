@@ -17,7 +17,7 @@
 
 ### Stack
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Python-x?style=for-the-badge&logo=python&logoColor=ffffff&color=4c75a9"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Jinja-x?style=for-the-badge&logo=jinja&logoColor=ffffff&color=7E0C1B"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Jinja-x?style=for-the-badge&logo=jinja&logoColor=ffffff&color=a52a22"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Java-x?style=for-the-badge&logo=coffeescript&logoColor=ffffff&color=eb512a"></a>
 <!--a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-x?style=for-the-badge&logo=javascript&logoColor=000000&color=f1df40"></a-->
 
