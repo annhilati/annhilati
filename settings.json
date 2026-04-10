@@ -24,6 +24,13 @@
             "variable": {
                 "foreground": "#7f9ef5"
             },
+            "keyword": {
+                "foreground": "#d36cca"
+            },
+            "enum": {
+                "foreground": "#4ebb81"
+            },
+            "enumMember": "#7f9ef5"
         }
     },
     "editor.tokenColorCustomizations": {
@@ -34,7 +41,8 @@
             { // String
                 "scope": [
                     "string",
-                    "string.quoted.single.python"
+                    "string.quoted.single.python",
+                    // "text.tex.latex"
                 ],
                 "settings": {
                     "foreground": "#e6b96d"
@@ -86,7 +94,11 @@
                     "storage.type.function.python",
                     "storage.type.class.python",
                     "storage.modifier.java",
-                    "storage.modifier.glsl"
+                    "storage.modifier.glsl",
+                    "storage.type.function.lambda.python",
+                    "storage.type.function.async.python",
+                    "support.function.section.latex",
+                    "keyword.control.label.latex"
                 ],
                 "settings": {
                     "foreground": "#6bfffd",
@@ -96,6 +108,7 @@
             { // Function Parameter
                 "scope": [
                     "variable.parameter",
+                    "variable.parameter.function.latex"
                 ],
                 "settings": {
                     "foreground": "#db936a"
@@ -107,8 +120,10 @@
             { // import
                 "scope": [
                     "keyword.control.import.python",
+                    "keyword.codetag.notation.python",
                     "keyword.control.import.glsl",
-                    "keyword.control.preprocessor.glsl"
+                    "keyword.control.preprocessor.glsl",
+                    "keyword.control.preamble.latex",
                 ],
                 "settings": {
                     "foreground": "#dd72cd",
@@ -119,7 +134,9 @@
                 "scope": [
                     "keyword",
                     "keyword.control.flow.python",
-                    "keyword.control.glsl"
+                    "keyword.control.glsl",
+                    "keyword.control.include.latex",
+                    "keyword.control.cite.latex"
                 ],
                 "settings": {
                     "foreground": "#d36cca",
@@ -134,7 +151,10 @@
                     "punctuation.separator.annotation.result.python",
                     "punctuation.separator.colon.python",
                     "constant.other.ellipsis.python",
-                    "punctuation.terminator.java"
+                    "punctuation.terminator.java",
+                    "punctuation.terminator.glsl",
+                    "punctuation.separator.period.glsl",
+                    "punctuation.separator.arguments.glsl"
                 ],
                 "settings": {
                     "foreground": "#616161"
@@ -163,7 +183,10 @@
                     "comment.typehint.variable.notation.python",
                     "string.quoted.docstring.single.python",
                     "comment.line.double-slash.java",
-                    "comment.line.double-slash.glsl"
+                    "comment.block.javadoc.java",
+                    "comment.line.double-slash.glsl",
+                    "comment.block.glsl",
+                    "comment.line.percentage.tex"
                 ],
                 "settings": {
                     "foreground": "#818080",
@@ -181,7 +204,8 @@
                     "keyword.operator.logical.java",
                     "storage.type.annotation.java",
                     "entity.name.function.glsl",
-                    "support.function.glsl"
+                    "support.function.glsl",
+                    "support.function.general.tex"
                 ],
                 "settings": {
                     "foreground": "#ebebad",
@@ -212,6 +236,7 @@
                     "constant.other.caps.python",
                     "variable.other.definition.java",
                     "source.glsl",
+                    "variable.language.glsl",
                     "string.interpolated.indexes.glsl"
                 ],
                 "settings": {
@@ -235,11 +260,14 @@
                     "fontStyle": "italic"
                 }
             },
-            { // Java Classes
+            { // Classes
                 "scope": [
                     "storage.type.java",
                     "storage.type.primitive.java",
-                    "storage.type.glsl"
+                    "storage.type.glsl",
+                    "support.class.latex",
+                    "meta.include.latex",
+                    "meta.citation.latex"
                 ],
                 "settings": {
                     "foreground": "#4ebb81",
