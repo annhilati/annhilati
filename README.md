@@ -19,7 +19,9 @@
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Python-x?style=for-the-badge&logo=python&logoColor=ffffff&color=4c75a9"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Jinja-x?style=for-the-badge&logo=jinja&logoColor=ffffff&color=a52a22"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Java-x?style=for-the-badge&logo=coffeescript&logoColor=ffffff&color=eb512a"></a>
-<!--a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-x?style=for-the-badge&logo=javascript&logoColor=000000&color=f1df40"></a-->
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Actions%20%26%20Pages-x?style=for-the-badge&logo=github&logoColor=ffffff&color=000000"></a>
+
+<!--a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Typst-x?style=for-the-badge&logo=typst&logoColor=ffffff&color=239DAD"></a-->
 
 
 ### Frameworks
@@ -28,7 +30,6 @@
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/sympy-x?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=4c75a9&color=161926"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/beet-x?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=E22837&color=161926"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Bukkit-x?style=for-the-badge&logo=coffeescript&logoColor=ffffff&labelColor=eb512a&color=161926"></a>
-<!--a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/puppeteer-x?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=f1df40&color=161926"></a-->
 
 ### Some experience with
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Minecraft%20Worldgen-x?style=for-the-badge&logo=openlayers&logoColor=ffffff&color=8d664d"></a>
@@ -36,6 +37,7 @@
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Regex-x?style=for-the-badge&logo=resend&logoColor=ffffff&color=3366a4"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/SQL-x?style=for-the-badge&logoColor=ffffff&color=b549d0"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Mojo-x?style=for-the-badge&logo=fireship&logoColor=ffffff&color=ff4c1f"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/UserCSS-x?style=for-the-badge&logo=css&logoColor=000000&color=28fefe"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-x?style=for-the-badge&logo=javascript&logoColor=000000&color=f1df40"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/LaTeX-x?style=for-the-badge&logo=latex&logoColor=ffffff&color=3f7e80"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/UserCSS-x?style=for-the-badge&logo=css&logoColor=000000&color=28fefe"></a>
 
