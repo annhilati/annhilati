@@ -30,7 +30,8 @@
             "enum": {
                 "foreground": "#4ebb81"
             },
-            "enumMember": "#7f9ef5"
+            "enumMember": "#7f9ef5",
+            "comment": "#818080"
         }
     },
     "editor.tokenColorCustomizations": {
@@ -98,7 +99,13 @@
                     "storage.type.function.lambda.python",
                     "storage.type.function.async.python",
                     "support.function.section.latex",
-                    "keyword.control.label.latex"
+                    "keyword.control.label.latex",
+                    "storage.modifier.declaration.python",
+                    "storage.type.type.python",
+                    "storage.modifier.async.js",
+                    "storage.type.interface.ts",
+                    "storage.modifier.ts",
+                    "storage.type.type.ts"
                 ],
                 "settings": {
                     "foreground": "#6bfffd",
@@ -136,13 +143,19 @@
                     "keyword.control.flow.python",
                     "keyword.control.glsl",
                     "keyword.control.include.latex",
-                    "keyword.control.cite.latex"
+                    "keyword.control.cite.latex",
+                    "keyword.control.conditional.js",
+                    "keyword.control.loop.js",
+                    "keyword.control.flow.js",
+                    "keyword.operator.expression.of.js",
+                    "keyword.operator.expression.keyof.ts",
+                    "keyword.operator.expression.typeof.ts"
                 ],
                 "settings": {
                     "foreground": "#d36cca",
                 }
             },
-            { // Controll symbols
+            { // Controll symbols dark
                 "scope": [
                     "punctuation.separator.annotation.python",
                     "keyword.operator.bitwise.python",
@@ -154,10 +167,29 @@
                     "punctuation.terminator.java",
                     "punctuation.terminator.glsl",
                     "punctuation.separator.period.glsl",
-                    "punctuation.separator.arguments.glsl"
+                    "punctuation.separator.arguments.glsl",
+                    "punctuation.terminator.statement.js",
+                    "storage.type.function.arrow.js",
+                    "storage.type.function.arrow.ts",
+                    "keyword.operator.type.ts",
+                    "punctuation.terminator.statement.ts",
+                    "punctuation.definition.template-expression.begin.js"
                 ],
                 "settings": {
                     "foreground": "#616161"
+                }
+            },
+            { // Controll symbols light
+                "scope": [
+                    "storage.type.js",
+                    "keyword.operator.new.js",
+                    "keyword.operator.new.ts",
+                    "storage.type.ts",
+                    "storage.type.property.ts",
+                    "storage.type.class.jsdoc"
+                ],
+                "settings": {
+                    "foreground": "#ea8575"
                 }
             },
             { // Array symbols
@@ -186,7 +218,10 @@
                     "comment.block.javadoc.java",
                     "comment.line.double-slash.glsl",
                     "comment.block.glsl",
-                    "comment.line.percentage.tex"
+                    "comment.line.percentage.tex",
+                    "comment.line.double-slash.typst",
+                    "comment.line.double-slash.js",
+                    "comment.block.documentation.ts"
                 ],
                 "settings": {
                     "foreground": "#818080",
@@ -267,21 +302,15 @@
                     "storage.type.glsl",
                     "support.class.latex",
                     "meta.include.latex",
-                    "meta.citation.latex"
+                    "meta.citation.latex",
+                    "support.type.primitive.ts",
+                    "support.type.builtin.ts",
+                    "entity.name.type.ts"
                 ],
                 "settings": {
                     "foreground": "#4ebb81",
                 }
             }
         ]
-    },
-    "editor.bracketPairColorization.enabled": true,
-    "workbench.colorCustomizations": {
-        "editorBracketHighlight.foreground1": "#e9ba56", // sanftes Gold
-        "editorBracketHighlight.foreground2": "#a06cdb", // gedämpftes Flieder
-        "editorBracketHighlight.foreground3": "#74d7a2", // weiches Mint
-        "editorBracketHighlight.foreground4": "#6c9fd9", // dezentes Himmelblau
-        "editorBracketHighlight.foreground5": "#d76e9f", // zartes Rosa
-        "editorBracketHighlight.foreground6": "#a0d770" // helles Lindgrün
     }
 }
