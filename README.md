@@ -10,7 +10,7 @@
 <ul>
     <li>🌍 I'm based in Germany</li>
     <li>💡 I focus on modules and libraries for data abstraction but I am also expanding my knowledge to include full-stack applications</li>
-    <li>🚀 <a href="https://github.com/annhilati/vpmobil-py">vpmobil-py</a> is currently the only production-ready project I have; all the others are proofs of concept, toy projects or personal endeavours</li>
+    <li>🚀 <a href="https://github.com/annhilati/vpmobil-py">vpmobil-py</a> is currently the only production-grade project I have; All the others are proof-of-concepts, or personal projects</li>
 </ul>
 
 <!-- <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=annhilati&show_icons=true&theme=dark&layout=compact&theme=dark&bg_color=161928&title_color=ffffff&text_color=ffffff&border_color=2A2630&icon_color=ffffff" alt="User Stats"></a> -->
@@ -21,8 +21,6 @@
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Java-x?style=for-the-badge&logo=coffeescript&logoColor=ffffff&color=eb512a"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Actions%20%26%20Pages-x?style=for-the-badge&logo=github&logoColor=ffffff&color=000000"></a>
 
-<!--a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Typst-x?style=for-the-badge&logo=typst&logoColor=ffffff&color=239DAD"></a-->
-
 
 ### Frameworks
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/discord.py-x?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=4c75a9&color=161926"></a>
@@ -31,15 +29,17 @@
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/HTMX-x?style=for-the-badge&logo=htmx&logoColor=ffffff&labelColor=E34F26&color=161926"></a>
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Bukkit-x?style=for-the-badge&logo=coffeescript&logoColor=ffffff&labelColor=eb512a&color=161926"></a>
 
-### Some experience with
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-x?style=for-the-badge&logo=javascript&logoColor=000000&color=f1df40"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Mojo-x?style=for-the-badge&logo=fireship&logoColor=ffffff&color=ff4c1f"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Rust-x?style=for-the-badge&logo=rust&logoColor=ffffff&color=d83415"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/GLSL-x?style=for-the-badge&logo=opengl&logoColor=ffffff&color=%235586A4"></a>
-
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Minecraft%20Worldgen-x?style=for-the-badge&logo=openlayers&logoColor=ffffff&color=8d664d"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Regex-x?style=for-the-badge&logo=resend&logoColor=ffffff&color=3366a4"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/SQL-x?style=for-the-badge&logoColor=ffffff&color=b549d0"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/LaTeX-x?style=for-the-badge&logo=latex&logoColor=ffffff&color=3f7e80"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Typst-x?style=for-the-badge&logo=typst&logoColor=ffffff&color=239DAD"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/UserCSS-x?style=for-the-badge&logo=css&logoColor=000000&color=28fefe"></a>
+### I can find my way around
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Languages-x?style=for-the-badge&color=161926"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-x?style=for-the-badge&logo=javascript&logoColor=000000&color=f1df40"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Mojo-x?style=for-the-badge&logo=fireship&logoColor=ffffff&color=ff4c1f"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Rust-x?style=for-the-badge&logo=rust&logoColor=ffffff&color=d83415"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/GLSL-x?style=for-the-badge&logo=opengl&logoColor=ffffff&color=%235586A4"></a>
+<br>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Other-x?style=for-the-badge&color=161926"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Minecraft%20Worldgen-x?style=for-the-badge&logo=openlayers&logoColor=ffffff&color=8d664d"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Regex-x?style=for-the-badge&logo=resend&logoColor=ffffff&color=3366a4"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/SQL-x?style=for-the-badge&logoColor=ffffff&color=b549d0"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/LaTeX-x?style=for-the-badge&logo=latex&logoColor=ffffff&color=3f7e80"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Typst-x?style=for-the-badge&logo=typst&logoColor=ffffff&color=239DAD"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/UserCSS-x?style=for-the-badge&logo=css&logoColor=000000&color=28fefe"></a>
