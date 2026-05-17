@@ -1,3 +1,4 @@
+<a href="https://discord.com/users/720992368110862407"><sub><img align="right" width="55" src="https://raw.githubusercontent.com/intergrav/devins-badges/0a3449fd26bf1375d2c5c26f096c8f30aa358766/assets/cozy-minimal/social/discord-singular_vector.svg"></sub></a>
 <h1 align="left">Hi 👋 My name is Annhilati</h1>
 <!--<a href="#"><img alt="Static Badge" src="https://api.statusbadges.me/badge/status/720992368110862407?style=for-the-badge&simple=true"></a> <a href="#"><img alt="Static Badge" src="https://api.statusbadges.me/badge/vscode/720992368110862407?style=for-the-badge"></a> <a href="#"><img alt="Static Badge" src="https://api.statusbadges.me/badge/spotify/720992368110862407?style=for-the-badge"></a> -->
 
