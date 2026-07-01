@@ -8,7 +8,7 @@
                 "foreground": "#4ebb81"
             },
             "type": {
-                "foreground": "#FFCB6B"
+                "foreground": "#4ebb81" //"#FFCB6B"
             },
             "property": {
                 "foreground": "#9dbdee"
@@ -31,7 +31,8 @@
                 "foreground": "#4ebb81"
             },
             "enumMember": "#7f9ef5",
-            "comment": "#818080"
+            "comment": "#818080",
+            "typeParameter": "#29ddd1"
         }
     },
     "editor.tokenColorCustomizations": {
@@ -80,7 +81,10 @@
             { // Boolean
                 "scope": [
                     "constant.language.python",
-                    "constant.language.java"
+                    "constant.language.java",
+                    "constant.language.boolean",
+                    "constant.language.null",
+                    "constant.language.jinja"
                 ],
                 "settings": {
                     "foreground": "#4ebb81",
@@ -102,20 +106,40 @@
                     "keyword.control.label.latex",
                     "storage.modifier.declaration.python",
                     "storage.type.type.python",
-                    "storage.modifier.async.js",
-                    "storage.type.interface.ts",
-                    "storage.modifier.ts",
-                    "storage.type.type.ts"
+                    "storage.modifier.async",
+                    "storage.type.interface",
+                    "storage.modifier",
+                    "storage.type.function",
+                    "storage.type.function",
+                    "storage.type.class"
                 ],
                 "settings": {
                     "foreground": "#6bfffd",
                     "fontStyle": "bold"
                 }
             },
+            { // Controll symbols soft
+                "scope": [
+                    "storage.type",
+                    "keyword.operator.new.js",
+                    "keyword.operator.new.ts",
+                    "storage.type",
+                    "storage.type.property.ts",
+                    "storage.type.class.jsdoc",
+                    "keyword.operator.expression.void.js",
+                    "keyword.operator.new",
+                    "keyword.control.as.tsx",
+                    "storage.modifier.declaration"
+                ],
+                "settings": {
+                    "foreground": "#ed9d91"
+                }
+            },
             { // Function Parameter
                 "scope": [
                     "variable.parameter",
-                    "variable.parameter.function.latex"
+                    "variable.parameter.function.latex",
+                    "variable.language.this.js"
                 ],
                 "settings": {
                     "foreground": "#db936a"
@@ -131,6 +155,8 @@
                     "keyword.control.import.glsl",
                     "keyword.control.preprocessor.glsl",
                     "keyword.control.preamble.latex",
+                    "keyword.control.import",
+                    "keyword.operator.expression.import"
                 ],
                 "settings": {
                     "foreground": "#dd72cd",
@@ -140,16 +166,24 @@
             { // if, else, except, return, etc.
                 "scope": [
                     "keyword",
-                    "keyword.control.flow.python",
+                    "keyword.control.flow",
                     "keyword.control.glsl",
                     "keyword.control.include.latex",
                     "keyword.control.cite.latex",
-                    "keyword.control.conditional.js",
-                    "keyword.control.loop.js",
-                    "keyword.control.flow.js",
-                    "keyword.operator.expression.of.js",
-                    "keyword.operator.expression.keyof.ts",
-                    "keyword.operator.expression.typeof.ts"
+                    "keyword.control.conditional",
+                    "keyword.control.loop",
+                    "keyword.control.flow",
+                    "keyword.control.jinja",
+                    "keyword.control.export",
+                    "keyword.control.as",
+                    "keyword.control.trycatch",
+                    "keyword.control.default",
+                    "keyword.control.type",
+                    "keyword.control.from",
+                    "keyword.operator.expression.of",
+                    "keyword.operator.expression",
+                    "keyword.operator.expression.typeof",
+                    "keyword.operator.expression.in",
                 ],
                 "settings": {
                     "foreground": "#d36cca",
@@ -169,27 +203,12 @@
                     "punctuation.separator.period.glsl",
                     "punctuation.separator.arguments.glsl",
                     "punctuation.terminator.statement.js",
-                    "storage.type.function.arrow.js",
-                    "storage.type.function.arrow.ts",
                     "keyword.operator.type.ts",
                     "punctuation.terminator.statement.ts",
                     "punctuation.definition.template-expression.begin.js"
                 ],
                 "settings": {
                     "foreground": "#616161"
-                }
-            },
-            { // Controll symbols light
-                "scope": [
-                    "storage.type.js",
-                    "keyword.operator.new.js",
-                    "keyword.operator.new.ts",
-                    "storage.type.ts",
-                    "storage.type.property.ts",
-                    "storage.type.class.jsdoc"
-                ],
-                "settings": {
-                    "foreground": "#ea8575"
                 }
             },
             { // Array symbols
@@ -220,8 +239,9 @@
                     "comment.block.glsl",
                     "comment.line.percentage.tex",
                     "comment.line.double-slash.typst",
-                    "comment.line.double-slash.js",
-                    "comment.block.documentation.ts"
+                    "comment.line.double-slash",
+                    "comment.block",
+                    "comment.line"
                 ],
                 "settings": {
                     "foreground": "#818080",
@@ -240,7 +260,9 @@
                     "storage.type.annotation.java",
                     "entity.name.function.glsl",
                     "support.function.glsl",
-                    "support.function.general.tex"
+                    "support.function.general.tex",
+                    "keyword.operator.expression.instanceof",
+                    "variable.language.super"
                 ],
                 "settings": {
                     "foreground": "#ebebad",
@@ -259,10 +281,13 @@
                     "keyword.operator.assignment.python",
                     "keyword.operator.comparison.python",
                     "keyword.operator.arithmetic.glsl",
-                    "keyword.operator.comparison.glsl"
+                    "keyword.operator.comparison.glsl",
+                    "storage.type.function.arrow",
+                    "constant.language.import-export-all"
                 ],
                 "settings": {
                     "foreground": "#e0e0e0",
+                    "fontStyle": ""
                 }
             },
             { // Variables
@@ -272,7 +297,8 @@
                     "variable.other.definition.java",
                     "source.glsl",
                     "variable.language.glsl",
-                    "string.interpolated.indexes.glsl"
+                    "string.interpolated.indexes.glsl",
+                    "variable.language.this"
                 ],
                 "settings": {
                     "foreground": "#7f9ef5"
@@ -289,7 +315,8 @@
             { // self, Specials
                 "scope": [
                     "variable.parameter.function.language.special.self.python",
-                    "variable.language.glsl"
+                    "variable.language.glsl",
+                    "variable.language.this"
                 ],
                 "settings": {
                     "fontStyle": "italic"
@@ -303,14 +330,27 @@
                     "support.class.latex",
                     "meta.include.latex",
                     "meta.citation.latex",
-                    "support.type.primitive.ts",
-                    "support.type.builtin.ts",
-                    "entity.name.type.ts"
+                    "support.type.primitive",
+                    "support.type.builtin",
+                    "entity.name.type",
+                    "support.class.component",
+                    "entity.other.inherited-class"
                 ],
                 "settings": {
                     "foreground": "#4ebb81",
                 }
             }
         ]
-    }
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#e9ba56",
+        "editorBracketHighlight.foreground2": "#a06cdb",
+        "editorBracketHighlight.foreground3": "#74d7a2",
+        "editorBracketHighlight.foreground4": "#6c9fd9",
+        "editorBracketHighlight.foreground5": "#d76e9f",
+        "editorBracketHighlight.foreground6": "#a0d770",
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f"
+    },
 }
