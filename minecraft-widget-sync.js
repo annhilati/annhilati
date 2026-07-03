@@ -50,21 +50,11 @@ function buildWidgetPayload(stats) {
         { type: 1, name: 'accountage', value: stats.accountAge },
         { type: 2, name: 'namechanges', value: stats.nameChanges },
         { type: 1, name: 'customskin', value: stats.hasCustomSkin },
-        { type: 2, name: 'capes', value: stats.capeCount }
+        { type: 2, name: 'capes', value: stats.capeCount },
+        { type: 3, name: 'skin', value: { url: stats.skinUrl } } // Typ 3 erwartet ein Objekt mit 'url'
       ]
     }
   };
-
-  /* 
-   * Versuch, den Skin als Bild zu setzen.
-   * Da der von Discord verwendete Endpoint inoffiziell ist, wird ein Bild-Upload per URL 
-   * möglicherweise von Discord ignoriert oder erfordert einen Upload via CDN.
-   * Wir setzen hier auf Verdacht image_url und avatar_url. 
-   */
-  if (stats.skinUrl) {
-    payload.image_url = stats.skinUrl;
-    payload.avatar_url = stats.skinUrl;
-  }
 
   return payload;
 }
