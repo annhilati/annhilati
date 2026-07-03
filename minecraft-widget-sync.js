@@ -101,8 +101,8 @@ async function fetchMCProfileData() {
     // Custom Skin
     const hasCustomSkin = userData.textures?.custom ? 'Yes' : 'No';
     
-    // Rendered Skin using Crafatar API
-    const skinUrl = userData.uuid ? `https://crafatar.com/renders/body/${userData.uuid}?overlay=true` : null;
+    // Rendered Skin using MC-Heads API (no query parameters, Discord proxy friendly)
+    const skinUrl = userData.uuid ? `https://mc-heads.net/body/${userData.uuid}` : null;
 
     // Capes
     const capeCount = userData.textures?.cape ? 1 : 0;
