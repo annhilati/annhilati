@@ -28,17 +28,35 @@ function validateConfig() {
 
 const USER_AGENT = 'mc-discord-widget-sync/1.0.0';
 
-function formatJoinDate(joinedAt) {
+function calculateAccountAge(joinedAt) {
   if (!joinedAt) {
-    return 'Joined: Unknown';
+    return 'Unknown';
   }
 
-  return `Joined: ${new Date(joinedAt).toLocaleDateString('en-US', {
-    timeZone: 'UTC',
-    month: 'short',
-    day: 'numeric',
-    year: 'numeric'
-  })}`;
+  const createdDate = new Date(joinedAt);
+  const now = new Date();
+  
+  let years = now.getFullYear() - createdDate.getFullYear();
+  let months = now.getMonth() - createdDate.getMonth();
+  
+  if (months < 0 || (months === 0 && now.getDate() < createdDate.getDate())) {
+    years--;
+    months += 12;
+  }
+  
+  if (now.getDate() < createdDate.getDate()) {
+    months--;
+    if (months < 0) {
+      months += 12;
+    }
+  }
+
+  const parts = [];
+  if (years > 0) parts.push(`${years} year${years !== 1 ? 's' : ''}`);
+  if (months > 0) parts.push(`${months} month${months !== 1 ? 's' : ''}`);
+  
+  if (parts.length === 0) return 'Less than a month';
+  return parts.join(', ');
 }
 
 function buildWidgetPayload(stats) {
@@ -75,14 +93,16 @@ async function fetchMCProfileData() {
     const userData = profileResponse.data || {};
     
     // Account age
-    const accountAge = userData.created_at ? formatJoinDate(userData.created_at) : 'Joined: Unknown';
+    const accountAge = userData.created_at ? calculateAccountAge(userData.created_at) : 'Unknown';
     
     // Name changes
     const nameChanges = userData.username_history ? Math.max(0, userData.username_history.length - 1) : 0;
     
     // Custom Skin
     const hasCustomSkin = userData.textures?.custom ? 'Yes' : 'No';
-    const skinUrl = userData.textures?.skin?.url || null;
+    
+    // Rendered Skin using Crafatar API
+    const skinUrl = userData.uuid ? `https://crafatar.com/renders/body/${userData.uuid}?overlay=true` : null;
 
     // Capes
     const capeCount = userData.textures?.cape ? 1 : 0;
